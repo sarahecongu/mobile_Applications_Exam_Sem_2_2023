@@ -1,0 +1,5 @@
+I used the following colors for my design
+*purple for my background color beacuse it is welcoming
+*I used color white for my some text because it is neutral
+*I used color black for my heading for easy visibility
+*For easy navigations i used a buttons to move from one page to another 
